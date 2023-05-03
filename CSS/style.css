@@ -1,0 +1,18 @@
+body {
+	background: rgba(120,120,120,.3);
+}
+
+li{
+	color: green;
+	transition: .5s;
+}
+
+li:hover{
+	font-size: 35px;
+}
+
+.test1 {
+	color: red;
+}
+
+

@@ -2,6 +2,10 @@ body {
 	background: rgba(120,120,120,.3);
 }
 
+ul{
+	height: 90px;
+}
+
 li{
 	color: green;
 	transition: .5s;
@@ -9,6 +13,10 @@ li{
 
 li:hover{
 	font-size: 35px;
+}
+
+a:hover{
+	color: transparent;
 }
 
 .test1 {

@@ -1,5 +1,6 @@
 body {
-	background: rgba(120,120,120,.3);
+//	background: rgba(120,120,120,.3);
+	background: black;
 }
 
 ul{
@@ -7,20 +8,25 @@ ul{
 }
 
 li{
-	color: green;
+	color: cyan;
 	transition: .5s;
 }
 
-li:hover{
+li:hover {
 	font-size: 35px;
 }
 
-a:hover{
+a:hover {
 	color: forestgreen;
+}
+
+a:visited {
+	color: cyan;
 }
 
 .test1 {
 	color: red;
 }
+
 
 
